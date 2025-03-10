@@ -48,7 +48,7 @@
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuentinDurant&theme=shadow_red&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuentinDurant&theme=transparent&show_icons=true">
   <br><br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=QuentinDurant&theme=youtube-dark&hide_border=true&locale=fr&mode=weekly"> 
 </td><td width="50%" align="center">
